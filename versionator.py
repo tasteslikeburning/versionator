@@ -1,6 +1,4 @@
 #! /usr/bin/env python
-# Jason Royes
-# 3/30/2011
 # Reveals the possibly hidden structure of a website by exploring hidden version control files recursively.
 # Only does CVS right now.
 # Optionally supports downloading of all files exposed.
